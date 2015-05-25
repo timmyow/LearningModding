@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LearningModding",
+  "name": "Learning Modding",
+  "description": "Me learning how to mod :P",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "timmyforchelsea"
+  ],
+  "credits": "To pahimar for his lets mod series on Youtube!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
